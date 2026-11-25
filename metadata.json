@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Companion Agent",
+  "description": "Infosys Springboard 7.0 AI Career Companion Agent for Internship Matching, RAG Indexing, Resume Parsing, and Evaluation Benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
